@@ -42,13 +42,15 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩🏻‍💻 Organizations</h2>
-  <a href="https://github.com/sb3-HRBANK-team4/sb3-hrbank-team4">
-    <img src="https://img.shields.io/badge/HRBank-000000?style=for-the-badge&logo=github&logoColor=white" />
+ <a href="https://github.com/sb3-HRBANK-team4/sb3-hrbank-team4">
+    <img src="hrbank.png" height="42" alt="HRBank" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/SB3-deokhugam-3/SB03-Deokhugam-Team3">
-    <img src="https://img.shields.io/badge/Deokhugam-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="deokhugam.png" height="42" alt="Deokhugam" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/SB03-OOTD-Team5/OOTD-Team5">
-    <img src="https://img.shields.io/badge/OOTD--Team5-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="otboo.svg" height="42" alt="OOTD-Team5" />
   </a>
 </div>
