@@ -20,9 +20,13 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Organizations </h2> <div align= "center">   
-        <a href=https://github.com/sb3-HRBANK-team4> <img src="http://sprint-project-1196140422.ap-northeast-2.elb.amazonaws.com/sb/hrbank/assets/logo-D8Y9H90G.ico?style=for-the-badge&logo=HRBank&logoColor=white&link=https://github.com/sb3-HRBANK-team4"> </a>
-        <a href=mailto:akbkck8101@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akbkck8101@gmail.com"> </a>
-        <a href=mailto:akbkck8101@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akbkck8101@gmail.com"> </a>
+        <a href=https://github.com/sb3-HRBANK-team4/sb3-hrbank-team4> 
+            <img src="http://sprint-project-1196140422.ap-northeast-2.elb.amazonaws.com/sb/hrbank/assets/logo-D8Y9H90G.ico?style=for-the-badge&logo=HRBank&logoColor=white&link=https://github.com/sb3-HRBANK-team4/sb3-hrbank-team4"> 
+        </a>
+        <a href=https://github.com/SB3-deokhugam-3/SB03-Deokhugam-Team3> 
+            <img src="http://sprint-project-1196140422.ap-northeast-2.elb.amazonaws.com/sb/deokhugam/images//logo/logo_symbol.png?style=for-the-badge&logo=Deokhugam&logoColor=white&link=https://github.com/SB3-deokhugam-3/SB03-Deokhugam-Team3"> 
+        </a>
+        <a href=https://github.com/SB03-OOTD-Team5/OOTD-Team5> <img src="https://project.sb.sprint.learn.codeit.kr/assets/Logo-wa1Pp3bf.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=https://github.com/SB03-OOTD-Team5/OOTD-Team5"> </a>
     </div> 
     </div>
     
