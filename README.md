@@ -38,30 +38,3 @@
   </div>
 </div>
 
-<br />
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩🏻‍💻 Organizations</h2>
-  <br />
-
-  <a href="https://github.com/sb3-HRBANK-team4/sb3-hrbank-team4">
-    <img src="./assets/org/hrbank.png" height="44"
-      style="background:#ffffff; padding:10px 14px; border-radius:14px; border:1px solid #e5e7eb;"
-      alt="HRBank" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/SB3-deokhugam-3/SB03-Deokhugam-Team3">
-    <img src="./assets/org/deokhugam.png" height="44"
-      style="background:#ffffff; padding:10px 14px; border-radius:14px; border:1px solid #e5e7eb;"
-      alt="Deokhugam" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/SB03-OOTD-Team5/OOTD-Team5">
-    <img src="./assets/org/otboo.svg" height="44"
-      style="background:#ffffff; padding:10px 14px; border-radius:14px; border:1px solid #e5e7eb;"
-      alt="OOTD-Team5" />
-  </a>
-</div>
-</div>
